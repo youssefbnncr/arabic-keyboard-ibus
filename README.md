@@ -23,8 +23,8 @@ Follow these steps to install and set up the `custom-arabic.mum` file:
 
 3. **Make the Script Executable**
    ```bash
-  chmod +x setup_script.sh
+   chmod +x setup_script.sh
 
 4. **Run the Setup Script**
    ```bash
-  ./setup_script.sh
+   ./setup_script.sh
