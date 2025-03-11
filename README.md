@@ -14,21 +14,17 @@ Follow these steps to install and set up the `custom-arabic.mum` file:
 ### Steps to Install
 
 1. **Clone the repository**
-
    ```bash
    git clone https://github.com/youssefbnncr/arabic-keyboard-ibus.git
 
 2. **Change directory**
-
    ```bash
    cd arabic-keyboard-ibus/
 
-2. **Make the Script Executable**
-
+3. **Make the Script Executable**
    ```bash
   chmod +x setup_script.sh
 
-3. **Run the Setup Script**
-
+4. **Run the Setup Script**
    ```bash
   ./setup_script.sh
