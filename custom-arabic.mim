@@ -1,0 +1,26 @@
+(mim
+ (name "MyArabicKeyboard")
+ (description "Custom Arabic Keyboard Layout with Latin Support")
+ (author "YourNameHere")
+ (license "GPL")
+ (input-method "ibus")
+ 
+ (map
+   ;; Arabic letters
+   ("a" "ا") ("aa" "أ") ("ai" "إ") ("ae" "آ") ("ay" "ى") ("aya" "ئ")
+   ("2" "ء") ("ayo" "ؤ") ("b" "ب") ("t" "ت") ("T" "ة") ("t'" "ث")
+   ("j" "ج") ("7" "ح") ("kh" "خ") ("5" "خ") ("d" "د") ("d'" "ذ")
+   ("r" "ر") ("z" "ز") ("s" "س") ("S" "ص") ("D" "ض") ("Z" "ظ")
+   ("3" "ع") ("gh" "غ") ("f" "ف") ("q" "ق") ("9" "ق") ("k" "ك")
+   ("l" "ل") ("m" "م") ("n" "ن") ("h" "ه") ("w" "و") ("i" "ي")
+   ("T" "ط")
+   
+   ;; Numbers
+   ("1" "١") ("2" "٢") ("3" "٣") ("4" "٤") ("5" "٥") ("6" "٦")
+   ("7" "٧") ("8" "٨") ("9" "٩") ("0" "٠")
+   
+   ;; Punctuation
+   ("," "،") (";" "؛") ("." "٠") ("_" "ـ")
+ )
+)
+
