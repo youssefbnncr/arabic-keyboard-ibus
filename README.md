@@ -9,7 +9,7 @@ Follow these steps to install and set up the `custom-arabic.mum` file:
 ### Prerequisites
 
 - Ensure you have `sudo` privileges to copy files to system directories like `/usr/share/m17n/`.
-- The `custom-arabic.mum` file must be in the same directory as the installation script (`setup_script.sh`).
+- The `custom-arabic.mum` file must be in the same directory as the installation script (`script.sh`).
 
 ### Steps to Install
 
